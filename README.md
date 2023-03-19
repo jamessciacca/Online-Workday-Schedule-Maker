@@ -58,4 +58,4 @@ SOFTWARE.
 
 Keep yourself organized, when the save button is hit next to the corresponding time box, the text input is saved into the local data on you computer and will stay there until changed!
 
-Image of completed Site Can be Found in the Images Folder Attached to this Repository!
+![image](https://user-images.githubusercontent.com/78399517/226198241-1ca68aff-d5cf-4768-adcf-9f428848a01f.png)
